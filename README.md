@@ -67,7 +67,7 @@ tar --exclude hello-world.tar.gz -czf hello-world.tar.gz -C src .
 ![alt text](images/README/image-8.png)
 
 #### 実行結果の詳細が確認できる
-※サンプルコードにエラーログの出力があるので最初に Errors タブが表示されるが意図した動作  
+※最初に Errors タブが表示されるが意図した動作（サンプルコードにエラーログの出力があるため）  
 
 ![alt text](images/README/image-9.png)
 
